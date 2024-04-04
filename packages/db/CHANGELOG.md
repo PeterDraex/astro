@@ -1,5 +1,11 @@
 # @astrojs/db
 
+## 0.10.2
+
+### Patch Changes
+
+- [#10681](https://github.com/withastro/astro/pull/10681) [`4bf8bd3848a6f3461f0186854588a8e2f90f4dbc`](https://github.com/withastro/astro/commit/4bf8bd3848a6f3461f0186854588a8e2f90f4dbc) Thanks [@matthewp](https://github.com/matthewp)! - Prevent errors in finding workspaceId from interrupting link prompts
+
 ## 0.10.1
 
 ### Patch Changes

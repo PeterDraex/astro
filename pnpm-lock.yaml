@@ -194,7 +194,7 @@ importers:
         specifier: ^3.1.2
         version: link:../../packages/integrations/preact
       '@astrojs/react':
-        specifier: ^3.1.1
+        specifier: ^3.2.0
         version: link:../../packages/integrations/react
       '@astrojs/solid-js':
         specifier: ^4.0.1
@@ -251,7 +251,7 @@ importers:
   examples/framework-react:
     dependencies:
       '@astrojs/react':
-        specifier: ^3.1.1
+        specifier: ^3.2.0
         version: link:../../packages/integrations/react
       '@types/react':
         specifier: ^18.2.37
